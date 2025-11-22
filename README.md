@@ -1,5 +1,3 @@
-# Cybersecurity-Lab-Portfolio
-
 # 🛡️ Cybersecurity Lab Portfolio & Knowledge Base
 
 ## 👋 About This Repository
