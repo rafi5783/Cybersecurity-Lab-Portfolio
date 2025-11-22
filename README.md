@@ -22,5 +22,4 @@ Here, I translate theoretical concepts into practical documentation, standard op
 * **TryHackMe Pre-Security Learning Path** - [Completed]
 * **Introduction to Cyber Security** - [Completed]
 
----
-*This repository is actively maintained by Rafi.*
+
