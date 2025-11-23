@@ -20,7 +20,7 @@ Here, I translate theoretical concepts into practical documentation, standard op
    * **DNS & HTTP:** Deep dive into status codes, headers, and record types.
    * **Session Management:** Analysis of Cookies and stateless protocols.
    * **Common Exploits:** Introduction to SQLi, XSS, and IDOR vulnerabilities.
-   * [👉 View Module Notes](./WEB_FUNDAMENTALS.md)
+   * [👉 View Module Notes](./Cybersecurity-Lab-Portfolio/02_How_The_Web_Works/WEB_FUNDAMENTALS.md)
 
 *(More modules on Web Fundamentals and Linux Security coming soon...)*
 
@@ -29,6 +29,4 @@ Here, I translate theoretical concepts into practical documentation, standard op
 
 ## 📜 Certifications & Training
 * **TryHackMe Pre-Security Learning Path** - [Completed]
-* **Introduction to Cyber Security** - [Completed]
-
 
