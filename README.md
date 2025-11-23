@@ -13,6 +13,15 @@ Here, I translate theoretical concepts into practical documentation, standard op
 * **Port Management:** A reference for identifying services and potential entry points.
 * **Tooling:** Operational guide for `ping`, `traceroute`, and basic connectivity analysis.
 
+### 2. 🌍 Web Fundamentals
+
+   Analysis of the core architecture of the internet and web application security.
+   * **How The Web Works:** Breakdown of the Client-Server model and Request-Response cycle.
+   * **DNS & HTTP:** Deep dive into status codes, headers, and record types.
+   * **Session Management:** Analysis of Cookies and stateless protocols.
+   * **Common Exploits:** Introduction to SQLi, XSS, and IDOR vulnerabilities.
+   * [👉 View Module Notes](./WEB_FUNDAMENTALS.md)
+
 *(More modules on Web Fundamentals and Linux Security coming soon...)*
 
 ## 🛠️ Tech Stack & Tools
