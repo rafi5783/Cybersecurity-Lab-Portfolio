@@ -21,6 +21,14 @@ Here, I translate theoretical concepts into practical documentation, standard op
    * **Session Management:** Analysis of Cookies and stateless protocols.
    * **Common Exploits:** Introduction to SQLi, XSS, and IDOR vulnerabilities.
 
+### 3. 🐧 [Linux Fundamentals](./03_Linux_Fundamentals)
+
+Operational analysis of the Linux Operating System, Shell interaction, and system administration.
+- **The File System:** Navigation of the Logical File System Hierarchy Standard (FHS).
+- **Permissions & Users:** Deep dive into users, groups, `sudo` privileges, and file modes (`chmod`/`chown`).
+- **Process Management:** Analysis of running services, PIDs, and background processes.
+- **Shell Scripting:** Automation basics using Bash variables, loops, and logic.
+
 *(More modules on Web Fundamentals and Linux Security coming soon...)*
 
 ## 🛠️ Tech Stack & Tools
