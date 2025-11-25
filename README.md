@@ -29,7 +29,7 @@ Operational analysis of the Linux Operating System, Shell interaction, and syste
 - **Process Management:** Analysis of running services, PIDs, and background processes.
 - **Shell Scripting:** Automation basics using Bash variables, loops, and logic.
 
-### 4. 🪟 Windows Fundamentals
+### 4. 🪟 [Windows Fundamentals](./04_Windows_Fundamentals)
 
 Operational analysis of the Windows Operating System, core architecture, and administrative tools.
 * **File System & Permissions:** Deep dive into NTFS structure, DACLs, and Alternate Data Streams (ADS).
