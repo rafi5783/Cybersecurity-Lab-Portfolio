@@ -37,7 +37,7 @@ Operational analysis of the Windows Operating System, core architecture, and adm
 * **Processes & Services:** Analysis of the Service Control Manager, Task Manager, and identifying malicious processes.
 * **PowerShell & CLI:** Command-line administration using CMD and PowerShell cmdlets.
 
-### 5. ⌨️ Command Line
+### 5. ⌨️ [Command Line](./05_Command_Line)
 
 Operational analysis of command-line interfaces (CLI) for system administration and automation across platforms.
 * **Windows & PowerShell:** Deep dive into OS management using legacy CMD commands and modern PowerShell object-based cmdlets.
