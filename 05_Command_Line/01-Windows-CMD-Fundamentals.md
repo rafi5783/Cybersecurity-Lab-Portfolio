@@ -1,5 +1,4 @@
 # Windows Command Line (CMD) Fundamentals
-*Based on TryHackMe Windows Fundamentals*
 
 ## 1. System Information
 Basic commands to understand the host machine.
