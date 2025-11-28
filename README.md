@@ -44,6 +44,15 @@ Operational analysis of command-line interfaces (CLI) for system administration 
 * **Linux Shell:** Operational analysis of the Bash shell, covering file system navigation, permission management (`chmod`), and text processing (`grep`).
 * **Scripting & Automation:** Basics of writing shell scripts and using pipes (`|`) to chain commands for efficient workflow automation.
 
+### 6. 🌐 [Networking](./06_Networking)
+
+Operational analysis of network architecture, protocols, and data transmission models.
+* **OSI & TCP/IP Models:** Comparative analysis of the 7-layer ISO theoretical framework versus the practical DoD TCP/IP stack.
+* **IP Addressing:** Deep dive into IPv4 structure, CIDR subnetting mechanics, and RFC 1918 private address ranges.
+* **Transport Layer:** Examination of reliable, connection-oriented communication (TCP/3-way handshake) versus connectionless speed (UDP).
+* **Encapsulation:** Analysis of the data lifecycle and header addition process from Application data to Physical frames.
+* **Routing & Tools:** Layer 3 routing logic and utilizing CLI tools (Telnet, ipconfig) for service discovery and diagnostics.
+
 *(More modules on Web Fundamentals and Linux Security coming soon...)*
 
 ## 🛠️ Tech Stack & Tools
