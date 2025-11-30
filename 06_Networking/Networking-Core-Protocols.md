@@ -112,4 +112,3 @@ Networking protocols are the vocabulary of the internet.
 * **FTP** moves the files.
 * **SMTP, POP3, and IMAP** handle communication via email.
 
-A solid grasp of these protocols, their ports, and their security implications is the first step toward mastering network defense and administration.
