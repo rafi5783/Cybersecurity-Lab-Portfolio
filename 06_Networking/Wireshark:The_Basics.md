@@ -1,6 +1,6 @@
 # Wireshark: The Basics
 
-## Task 1: Introduction
+## Introduction
 
 **Wireshark** is the industry-standard, open-source network protocol analyzer. It is used essentially to "microscope" network traffic, allowing you to see what is happening on your network at a microscopic level.
 
@@ -17,7 +17,7 @@
 
 ---
 
-## Task 2: Tool Overview
+## Tool Overview
 
 When you open Wireshark and load a capture file, the interface is divided into three primary distinct panes. Understanding these is crucial for analysis.
 
@@ -45,7 +45,7 @@ This shows the raw data of the packet in **Hexadecimal** (left side) and **ASCII
 
 ---
 
-## Task 3: Packet Dissection
+## Packet Dissection
 
 Packet dissection is the process of translating raw binary data into human-readable fields. Wireshark uses "dissectors" to understand thousands of different protocols.
 
@@ -60,7 +60,7 @@ To analyze a packet, you expand the "trees" in the **Packet Details Pane**:
 
 ---
 
-## Task 4: Packet Navigation
+## Packet Navigation
 
 In large capture files (which can contain millions of packets), navigating efficiently is a required skill.
 
@@ -82,7 +82,7 @@ To search for specific data inside a packet:
 
 ---
 
-## Task 5: Packet Filtering
+## Packet Filtering
 
 Filtering is the most powerful feature of Wireshark. It allows you to ignore the noise and focus on specific traffic. There are two types: **Capture Filters** (set before capturing) and **Display Filters** (applied after capturing).
 
@@ -111,7 +111,7 @@ To see the full reconstruction of a conversation (e.g., a web page loading or a 
 
 ---
 
-## Task 6: Conclusion
+## Conclusion
 
 Wireshark is an indispensable tool for any IT or Cybersecurity professional. It bridges the gap between abstract networking theory and the reality of what is actually moving across the wire.
 
