@@ -14,7 +14,7 @@ Network protocols define rules for communication between devices. **Secure proto
 
 ---
 
-## Task 2: TLS (Transport Layer Security)
+## TLS (Transport Layer Security)
 
 **TLS** is the successor to the now-deprecated Secure Sockets Layer (**SSL**) protocol. It operates at the transport layer (or just above it) and is the most widely adopted protocol for securing communication over a network.
 
@@ -27,7 +27,7 @@ TLS has gone through several versions (1.0, 1.1, 1.2), with **TLS 1.3** being th
 
 ---
 
-## Task 3: HTTPS (Hypertext Transfer Protocol Secure)
+## HTTPS (Hypertext Transfer Protocol Secure)
 
 **HTTPS** is simply the **HTTP** (Hypertext Transfer Protocol) running on top of **TLS** (or SSL). It is the protocol that secures communication between a user's web browser and a website.
 
@@ -38,7 +38,7 @@ TLS has gone through several versions (1.0, 1.1, 1.2), with **TLS 1.3** being th
 
 ---
 
-## Task 4: SMTPS, POP3S, and IMAPS
+## SMTPS, POP3S, and IMAPS
 
 These are the secure versions of the standard email protocols, which encrypt the email communication session using **TLS/SSL**.
 
@@ -51,7 +51,7 @@ These are the secure versions of the standard email protocols, which encrypt the
 
 ---
 
-## Task 5: SSH (Secure Shell)
+## SSH (Secure Shell)
 
 **SSH** is a cryptographic network protocol for operating network services securely over an unsecured network. It is most commonly used for secure **remote login** and command-line execution.
 
@@ -63,7 +63,7 @@ These are the secure versions of the standard email protocols, which encrypt the
 
 ---
 
-## Task 6: SFTP and FTPS
+## SFTP and FTPS
 
 These protocols secure file transfer operations, protecting data in transit from interception.
 
@@ -79,7 +79,7 @@ These protocols secure file transfer operations, protecting data in transit from
 
 ---
 
-## Task 7: VPN (Virtual Private Network)
+## VPN (Virtual Private Network)
 
 A **VPN** extends a private network across a public network (like the internet), enabling users to send and receive data as if their computing devices were directly connected to the private network. This is achieved through encapsulation and encryption.
 
@@ -90,6 +90,6 @@ A **VPN** extends a private network across a public network (like the internet),
 
 ---
 
-## Task 8: Closing Notes
+## Closing Notes
 
 Secure protocols are the foundation of trust on the internet. Their continuous evolution, from SSL to modern TLS 1.3, and the adoption of secure variants like HTTPS and SSH, are vital for protecting data against evolving cyber threats. Always ensure your systems are running the latest, most secure versions of these protocols.
