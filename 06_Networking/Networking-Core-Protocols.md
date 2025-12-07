@@ -5,7 +5,7 @@ This module explores the fundamental protocols that power the internet and local
 ---
 
 
-## Task 1: DNS: Remembering Addresses
+## DNS: Remembering Addresses
 
 **Domain Name System (DNS)** acts as the phonebook of the internet. It translates human-readable domain names (like `google.com`) into machine-readable IP addresses (like `142.250.190.46`).
 
@@ -20,7 +20,7 @@ This module explores the fundamental protocols that power the internet and local
 
 ---
 
-## Task 2: WHOIS
+## WHOIS
 
 **WHOIS** is a query and response protocol that is widely used for querying databases that store the registered users or assignees of an Internet resource, such as a domain name, an IP address block, or an autonomous system.
 
@@ -36,7 +36,7 @@ This module explores the fundamental protocols that power the internet and local
 
 ---
 
-## Task 3: HTTP(S): Accessing the Web
+## HTTP(S): Accessing the Web
 
 **HyperText Transfer Protocol (HTTP)** and its secure version **(HTTPS)** are the foundation of data communication for the World Wide Web.
 
@@ -58,7 +58,7 @@ This module explores the fundamental protocols that power the internet and local
 
 ---
 
-## Task 4: FTP: Transferring Files
+## FTP: Transferring Files
 
 **File Transfer Protocol (FTP)** is a standard network protocol used for the transfer of computer files between a client and server on a computer network.
 
@@ -69,7 +69,7 @@ This module explores the fundamental protocols that power the internet and local
 
 ---
 
-## Task 5: SMTP: Sending Email
+## SMTP: Sending Email
 
 **Simple Mail Transfer Protocol (SMTP)** is the standard protocol for *sending* emails across the Internet.
 
@@ -81,7 +81,7 @@ This module explores the fundamental protocols that power the internet and local
 
 ---
 
-## Task 6: POP3: Receiving Email
+## POP3: Receiving Email
 
 **Post Office Protocol version 3 (POP3)** is an older standard used by local email clients to retrieve emails from a remote server over a TCP/IP connection.
 
@@ -92,7 +92,7 @@ This module explores the fundamental protocols that power the internet and local
 
 ---
 
-## Task 7: IMAP: Synchronizing Email
+## IMAP: Synchronizing Email
 
 **Internet Message Access Protocol (IMAP)** is the modern standard for email retrieval and storage.
 
@@ -104,7 +104,7 @@ This module explores the fundamental protocols that power the internet and local
 
 ---
 
-## Task 8: Conclusion
+## Conclusion
 
 Networking protocols are the vocabulary of the internet.
 * **DNS** locates the destination.
